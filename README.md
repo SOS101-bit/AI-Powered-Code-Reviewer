@@ -61,5 +61,9 @@ npm run dev
 - Update backend logic in `BackEnd/src/`
 - Update frontend UI in `Frontend/src/`
 
+## Demo
+  **Watch the demo video:** [Click here to view](https://drive.google.com/file/d/15hOrPRCNtlPZhmJBlFMHM6U0kP8TJKeY/view?usp=sharing)
+
+
 ## Author
 SOS101-bit (Sourav Sahoo)
