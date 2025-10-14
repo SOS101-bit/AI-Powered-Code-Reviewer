@@ -1,0 +1,62 @@
+* {
+  margin: 0%;
+  padding: 0% ;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+main{
+  height: 100%;
+  width: 100%;
+  padding: 1.5rem;
+  display: flex;
+  gap: 1rem;
+}
+
+main .left, 
+main .right {
+  height: 100%;
+  flex-basis: 50%;
+  border-radius: 0.7rem;
+}
+
+main .left{
+  background-color: #000000;
+  position: relative;
+}
+
+.left .code,
+.code pre,
+.code pre code{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  border-radius: 0;
+  background-color: #000000;
+}
+
+main .left .review{
+  position: absolute;
+  bottom: 1rem;
+  right: 0.5rem;
+  background-color: rgb(239, 195, 142);
+  color: black;
+  padding: 0.5rem 2rem;
+  font-weight: 500;
+  cursor: pointer;
+  user-select: none;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius: 0.7rem;
+}
+
+main .right{
+  background-color: #535151;
+  padding: 1rem 2rem;
+  overflow: auto;
+}
