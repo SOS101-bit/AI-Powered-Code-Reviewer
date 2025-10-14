@@ -3,7 +3,7 @@
 This project is an AI-powered code review platform with a React frontend and a Node.js/Express backend. It allows users to submit code for automated review and receive feedback based on good coding practices powered by AI.
 
 ## Features
-- Submit code for review
+- Submit code for review (copy and paste the code in the code editor and then press the "Review" Button)
 - Receive AI-generated feedback
 - Modern React frontend
 - RESTful backend API
