@@ -3,7 +3,7 @@
 This project is an AI-powered code review platform with a React frontend and a Node.js/Express backend. It allows users to submit code for automated review and receive feedback based on good coding practices powered by AI.
 
 ## Features
-- Submit code for review
+- Submit code for review (copy and paste the code in the code editor and then press the "Review" Button)
 - Receive AI-generated feedback
 - Modern React frontend
 - RESTful backend API
@@ -60,6 +60,10 @@ npm run dev
 ## Customization
 - Update backend logic in `BackEnd/src/`
 - Update frontend UI in `Frontend/src/`
+
+## Demo
+  **Watch the demo video:** [Click here to view](https://drive.google.com/file/d/15hOrPRCNtlPZhmJBlFMHM6U0kP8TJKeY/view?usp=sharing)
+
 
 ## Author
 SOS101-bit (Sourav Sahoo)
